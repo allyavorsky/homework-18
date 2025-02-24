@@ -1,1 +1,1 @@
-# homework-18
+# Homework 18 | JavaScript Basic
